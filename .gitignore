@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+env/
+*.ipynb_checkpoints
+.DS_Store
+
+# Julia
+Manifest.toml
+*.jl.cov
+.julia/
+.DS_Store
